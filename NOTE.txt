@@ -1,0 +1,20 @@
+https://expo.github.io/router/docs/
+npx create-expo-app@latest --example with-router
+
+npm i expo-font axios react-native-dotenv
+
+npm  install -g expo-cli (For first time only)
+
+Add the line in package.json: "main": "index.js"
+
+npm start
+npx expo start
+
+expo-cli start --tunnel
+
+Build: expo publish
+
+
+
+
+
